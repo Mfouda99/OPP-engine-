@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python teachers links", "Python teachers links\Python teachers links.pyproj", "{B9950BBA-B85C-4695-98BB-92EC6D9D0179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9950BBA-B85C-4695-98BB-92EC6D9D0179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9950BBA-B85C-4695-98BB-92EC6D9D0179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E8E7A9D-59B6-4276-AEFE-D81808434565}
+	EndGlobalSection
+EndGlobal
